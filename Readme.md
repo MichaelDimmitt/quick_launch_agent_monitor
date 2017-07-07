@@ -1,6 +1,6 @@
-# Helper for Macintosh Computer programs that runs at Startup.
+# Helper for Understanding what Programs that run at Startup.
 
-### It locates the programs that runs at startup.
+### It locates the programs that run at startup.
 
 ### It allows quick, start/stop (remove) options.
 
